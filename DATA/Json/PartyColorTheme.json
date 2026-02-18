@@ -1,0 +1,93 @@
+{
+  "name": "PartyColorTheme",
+  "dataColors": [
+      {
+          "name": "BJP",
+          "color": "#FF9933"
+      },
+      {
+          "name": "SHS",
+          "color": "#F37020"
+      },
+      {
+          "name": "NCP",
+          "color": "##DEEFFF"
+      },
+      {
+          "name": "INC",
+          "color": "#19AAED"
+      },
+      {
+          "name": "AIMIM",
+          "color": "#0C6B4B"
+      },
+      {
+          "name": "BBM",
+          "color": "#0000FF"
+      },
+      {
+          "name": "BVA",
+          "color": "#FEFF03"
+      },
+      {
+          "name": "CPIM",
+          "color": "#CC0D0D"
+      },
+      {
+          "name": "CPM",
+          "color": "#CC0D0D"
+      },
+      {
+          "name": "IND",
+          "color": "#808080"
+      },
+      {
+          "name": "JSS",
+          "color": "#EC0090"
+      },
+      {
+          "name": "KTSTP",
+          "color": "#BFD89D"
+      },
+      {
+          "name": "MNS",
+          "color": "#5F2301"
+      },
+      {
+          "name": "PHJSP",
+          "color": "#A51E25"
+      },
+      {
+          "name": "PWPI",
+          "color": "#E77373"
+      },
+      {
+          "name": "RSPS",
+          "color": "#E3E344"
+      },
+      {
+          "name": "SP",
+          "color": "#FF2222"
+      },
+      {
+          "name": "SWP",
+          "color": "#766423"
+      }
+      {
+        "name": "VBA",
+        "color": "#769856"
+    }
+    {
+        "name": "LKSGM",
+        "color": "#4C9196"
+    }
+    {
+        "name": "BJAP",
+        "color": "#4C4176"
+    }
+    {
+        "name": "RSP",
+        "color": "#769856"
+    }
+  ]
+}
